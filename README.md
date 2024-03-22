@@ -1,2 +1,1 @@
-# Sorted-Bag
-Sorted Bag using a Binary Search Tree
+Sorted Bag using a Binary Search Tree and implementation of useful operations (add/remove/search an element, calculate its number of occurrences, verify whether the bag is empty or not, create an iterator for the collection) + implementation of iterator to facilitate the operations
